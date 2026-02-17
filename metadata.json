@@ -1,7 +1,0 @@
-{
-  "name": "Sunny OCR Booster",
-  "description": "A high-precision OCR and document analysis tool using Gemini 3 Pro to extract text, tables, and math from images and PDFs with AI-powered correction and summarization.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
